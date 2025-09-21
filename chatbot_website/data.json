@@ -1,0 +1,34 @@
+{
+  "skills": {
+    "data analyst": {
+      "description": "A data analyst collects, cleans, and interprets data sets to answer a question or solve a problem.",
+      "key_skills": ["SQL", "Microsoft Excel", "Python", "R", "Tableau"],
+      "tools": ["Jupyter Notebooks", "Power BI", "Google Analytics"],
+      "salary_range_inr": "₹4,00,000 to ₹12,00,000 per year",
+      "career_path": "Often starts as a Junior Analyst, can advance to Senior Analyst, Analytics Manager, or specialize in areas like Business Intelligence."
+    },
+    "software developer": {
+      "description": "A software developer designs, develops, and maintains software applications.",
+      "key_skills": ["JavaScript", "Python", "Java", "Git", "Data Structures & Algorithms"],
+      "tools": ["VS Code", "IntelliJ IDEA", "Docker", "GitHub"],
+      "salary_range_inr": "₹5,00,000 to ₹20,00,000+ per year",
+      "career_path": "Starts as a Junior Developer, progresses to Senior Developer, Tech Lead, and can move into management or roles like Software Architect."
+    },
+    "architect": {
+        "description": "An architect plans and designs buildings and other structures, ensuring they are functional, safe, and aesthetically pleasing.",
+        "key_skills": ["Design", "AutoCAD", "Project Management", "Building Codes"],
+        "tools": ["Revit", "SketchUp", "Bluebeam"],
+        "salary_range_inr": "₹6,00,000 to ₹25,00,000 per year",
+        "career_path": "Begins with an internship, becomes a licensed Architect, and can advance to a Senior Architect, Project Manager, or start their own firm."
+    }
+  },
+  "categories": {
+    "technology": [
+      "Data Analyst",
+      "Software Developer"
+    ],
+    "design and engineering": [
+      "Architect"
+    ]
+  }
+}
